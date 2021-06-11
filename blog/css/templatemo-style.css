@@ -97,7 +97,7 @@ p:last-child { margin-bottom: 0; }
 .navbar-brand {
 	color: white;
 	/*display: inline-block;*/
-	font-size: 3em;
+	font-size: 2em;
 	margin: 0;
     text-transform: uppercase;
     padding: 0.56em 1.3em;
@@ -112,7 +112,8 @@ p:last-child { margin-bottom: 0; }
 .nav-item {
 	float: left;
 	list-style: none;
-	font-size: 1.8em;	
+	font-size: 1.5em;	
+	/* font-size: 1.8em; */	
 }
 
 .navbar-nav .nav-link,
@@ -160,7 +161,11 @@ p:last-child { margin-bottom: 0; }
 #tm-section-1 {	background-image: url(../img/strip-bg-01.jpg); }
 #tm-section-2 {	background-image: url(../img/strip-bg-02.jpg); }
 #tm-section-3 {	background-image: url(../img/strip-bg-03.jpg); }
-#tm-section-4 {	background-image: url(../img/strip-bg-04.jpg); }
+/* #tm-section-4 {	background-image: url(../img/strip-bg-04.jpg); } */
+#tm-section-4 {	background-image: url(../img/strip-bg-02.jpg); }
+#tm-section-5 {	background-image: url(../img/strip-bg-01.jpg); }
+#tm-section-6 {	background-image: url(../img/strip-bg-04.jpg); }
+#tm-section-7 {	background-image: url(../img/strip-bg-03.jpg); }
 .tm-footer { 
 	background-image: url(../img/strip-bg-05.jpg);
 	font-weight: 300;
